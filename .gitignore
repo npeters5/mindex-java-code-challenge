@@ -1,0 +1,30 @@
+# Directories #
+/build/
+bin/
+repos/
+/repos/
+doc/
+/doc/
+.gradle/
+/bin/
+target/
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+### Java ###
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### VSCode ###
+*.vscode
+
+
+
